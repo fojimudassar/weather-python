@@ -8,4 +8,10 @@ for filename in os.listdir(folder_path):
     with open(filepath, 'r') as f:
         file_contents = f.read()
 
+<<<<<<< HEAD
         print(file_contents)
+=======
+        print(file_contents)
+#         slkmldfhf
+#         mudassar
+>>>>>>> origin/main
