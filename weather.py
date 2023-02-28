@@ -9,5 +9,5 @@ for filename in os.listdir(folder_path):
         file_contents = f.read()
 
         print(file_contents)
-        
+#         slkmldfhf
 #         mudassar
